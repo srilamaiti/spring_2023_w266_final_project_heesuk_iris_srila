@@ -11,7 +11,7 @@ Spring, 2023
 
 **Objective & Background:** <br>
 
-  Our goal is to develop the Automated Essay Scoring (AES), the task of NLP technology to automatically assign scores to essays at scale particulary to help English Language Learners (ELLs) from grade 8-12. The dataset is obtained from the [Kaggle website](https://www.kaggle.com/competitions/feedback-prize-english-language-learning/data) that comprises 3,911 argumentative essays. We introduced BERT-base_cased and BERTweet-base for the text regression task. To improve the performance, we then employed clustering with stratified two-fold cross validation on each of the BERT base models. 
+  Our goal is to develop the Automated Essay Scoring (AES), the task of NLP technology to automatically assign scores to essays at scale particulary to help English Language Learners (ELLs) from grade 8-12. The dataset is obtained from the [Kaggle website](https://www.kaggle.com/competitions/feedback-prize-english-language-learning/data) that comprises 3,911 argumentative essays. We introduced BERT-base_cased and BERTweet-base for the text regression task. To improve the performance, we then employed K-means clustering (k = 3) with stratified two-fold cross validation on each of the BERT base models. 
   
   **Key Files for the Final Submission:**
   

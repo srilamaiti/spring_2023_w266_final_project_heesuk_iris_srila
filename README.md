@@ -1,6 +1,6 @@
 # Improve Your English Essay with Artificial Intelligence
 
-The final report is found here: ****
+The final report is found here: **report/final_report.pdf
 
 The main code is here: **W266_essay_evaluation_final.ipynb**
 

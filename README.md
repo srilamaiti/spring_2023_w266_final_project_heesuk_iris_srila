@@ -1,8 +1,8 @@
 # Improve Your English Essay with Artificial Intelligence
 
 ### University of California, Berkeley
-#### W266 - Natual Language Processing with Deep Learning
-#### Spring, 2023
+W266 - Natual Language Processing with Deep Learning
+Spring, 2023
 
 **Contributors:**
   1. Iris Lew 

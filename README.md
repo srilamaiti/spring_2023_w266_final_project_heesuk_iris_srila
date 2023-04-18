@@ -18,7 +18,9 @@ Spring, 2023
 - Final report: **report/final_report.pdf**
 - Main code that contains the final experiments: **W266_essay_evaluation_final.ipynb**
 - Notebook with the hyperparameter tuning to define the best model: **heesuk/W266_Regression_with_BERT.ipynb**
-- Presentation Google PPT: [Improve Your English Essay with Artificial Intelligence](https://docs.google.com/presentation/d/1xtAPxn-lysW8vIg6IQigyiGuU3QxiTP7fljnBX9c0LU/edit#slide=id.p)
+- Presentation PPT slides: 
+  - Link to Google slides: [Improve Your English Essay with Artificial Intelligence](https://docs.google.com/presentation/d/1xtAPxn-lysW8vIg6IQigyiGuU3QxiTP7fljnBX9c0LU/edit#slide=id.p)
+  - PDF file: **Improve Your English Essay with AI.pdf**
 
 **Note:** <i>W266_Regression_with_BERT.ipynb</i> is developed primarily to fine-tune different sets of hyperparameters using BERT-base-cased then finally to find the best set of hyperparameters to apply our final experiments in the <i>W266_essay_evaluation_final.ipynb</i>. However due to the oversized content in the <i>W266_Regression_with_BERT.ipynb</i>, the results of training the models and predicting values on the test dataset are unable to display. Please feel free to reach out if you have any questions regarding the process and results. In the meantime, the screenshots of the model summary, architecure, and evoluation of the learning history of the best model are attached below for your reference: 
 
